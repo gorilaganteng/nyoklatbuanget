@@ -137,7 +137,7 @@ p {
   /* font-family: "Brush Script MT", cursive; */
   margin: 1px 20px 30px 30px;
   color: #fff;
-  /* text-align: justify; */
+  font-size: 7px;
 }
 
 p span{
@@ -154,7 +154,6 @@ p span{
 }
 
 .back {
-  font-size: 5px;
   ont-family: Tahoma, sans-serif;
   color: #fff;
   text-align: center;
@@ -174,6 +173,7 @@ a{
   text-decoration: underline;
   color: rgb(255, 255, 255);
 }
+
 
 
 
