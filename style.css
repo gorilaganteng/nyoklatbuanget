@@ -137,7 +137,6 @@ p {
   /* font-family: "Brush Script MT", cursive; */
   margin: 1px 20px 30px 30px;
   color: #fff;
-  font-size: 14px;
 }
 
 p span{
@@ -173,6 +172,7 @@ a{
   text-decoration: underline;
   color: rgb(255, 255, 255);
 }
+
 
 
 
