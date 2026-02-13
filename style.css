@@ -154,7 +154,8 @@ p span{
 }
 
 .back {
-  font-family: Tahoma, sans-serif;
+  font-size: 8px;
+  ont-family: Tahoma, sans-serif;
   color: #fff;
   text-align: center;
   margin: 20px;
@@ -173,4 +174,5 @@ a{
   text-decoration: underline;
   color: rgb(255, 255, 255);
 }
+
 
